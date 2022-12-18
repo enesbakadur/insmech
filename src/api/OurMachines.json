@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "image": "https://images.pexels.com/photos/8956313/pexels-photo-8956313.jpeg",
+        "title": "CNC Freze",
+        "li1": "4000x2000x1000mm",
+        "li2": "2000x1000x600mm",
+        "li3": "1500x700x700mm"
+    },
+    {
+        "id": 2,
+        "image": "https://images.pexels.com/photos/7480243/pexels-photo-7480243.jpeg",
+        "title": "CNC Torna",
+        "li1": "300x1500mm",
+        "li2": "600x3000mm"
+    },
+    {
+        "id": 3,
+        "image": "https://images.pexels.com/photos/2381463/pexels-photo-2381463.jpeg",
+        "title": "Kaynak Makineleri",
+        "li1": "Gazaltı Argon",
+        "li2": "Alüminyum Döküm"
+    },
+    {
+        "id": 4,
+        "image": "https://images.pexels.com/photos/5011647/pexels-photo-5011647.jpeg",
+        "title": "3D Ölçüm",
+        "li1": "Faro 3D Ölçüm Ekipmanı"
+    }
+]

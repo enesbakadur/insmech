@@ -42,7 +42,7 @@ export default function HeroSection() {
                 Hizmeti Verir
             </h1>
             <p className="text-description text-center w-full md:w-1/2">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eos explicabo officiis sapiente facilis. Aliquid corrupti necessitatibus dolore, veritatis fuga incidunt vel illo, placeat porro nemo ex impedit pariatur ratione. Fugiat corporis perspiciatis vel ullam odio!</p>
-            <button className="bg-primary flex items-center justify-center py-3 px-8 rounded-lg transition text-white font-bold hover:bg-white hover:text-secondary">
+            <button className="bg-primary flex items-center justify-center py-3 px-6 rounded-lg transition text-white font-bold hover:bg-white hover:text-secondary hover:scale-105">
                 İletişime Geç
             </button>
         </div>

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "icon": "./icons/expertiseCards/icon1.svg",
+        "title": "Tasarım ve Analiz",
+        "description": "Üretimde karşınıza çıkan her zorluğa yaratıcı çözümler bulabilecek bir mühendis kadrosu."
+    },
+    {
+        "id": 2,
+        "icon": "./icons/expertiseCards/icon2.svg",
+        "title": "İmalat ve Proje Yönetimi",
+        "description": "Geniş makine parkuru ile hassas talaşlı, kaynaklı imalat ve tecrübeli üretim ekibi."
+    },
+    {
+        "id": 3,
+        "icon": "./icons/expertiseCards/icon3.svg",
+        "title": "Taşıma ve Kurulum",
+        "description": "Büyük çaplı makine ve hatların taşıma ve kurulumunu gerçekleştirebilen nitelikli iş gücü."
+    },
+    {
+        "id": 4,
+        "icon": "./icons/expertiseCards/icon4.svg",
+        "title": "Otomasyon",
+        "description": "Makine, robotik sistemler ve fabrika otomasyonlarında uzmanlaşmış yazılım ekibi."
+    }
+]

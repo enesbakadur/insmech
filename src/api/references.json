@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "image": "./references/ford.png"
+    },
+    {
+        "id": 2,
+        "image": "./references/arcelik.png"
+    },
+    {
+        "id": 3,
+        "image": "./references/magnetimarelli.png"
+    },
+    {
+        "id": 4,
+        "image": "./references/ermetal.png"
+    },
+    {
+        "id": 5,
+        "image": "./references/coskunoz.png"
+    },
+    {
+        "id": 6,
+        "image": "./references/martur.png"
+    }
+]
